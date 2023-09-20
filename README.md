@@ -17,3 +17,4 @@
 6. 로그아웃하시면 signin 창으로 이동합니다.
 
 ### 데모 영상
+https://youtu.be/EicBAUVXwTY 
